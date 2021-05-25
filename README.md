@@ -12,4 +12,4 @@ Benötigte Erweiterungen: "Install Chrome Extensions" sowie im Anschluss "Violen
 1. Violentmonkey --> "+" (Ein neues Skript erstellen)
 2. Im Fenster "Code" den Skripttext einfügen
 3. Im Fenster "Einstellungen" --> Homepage-URL: (Website auf der das Skript ausgeführt werden soll) hier: https://tinder.com
-4. Skript --> Speicher&Schließen
+4. Skript --> Speichern&Schließen
